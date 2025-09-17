@@ -1,49 +1,64 @@
-# 🌐 Satini Lenampuny - Portfolio
+# 🌐 Satini Zatickz | Portfolio
 
-Welcome to my personal portfolio website!  
-This site showcases my skills, projects, and experience as a **Software Developer, AI Freelancer, and Canva Templates Creator**.  
-
-🚀 **Live Portfolio:** [View Here](https://github.com/satinizatickz/Portfolio)  
+This is my personal portfolio website built with **HTML & CSS**.  
+It showcases my skills, projects, and contact details.  
 
 ---
 
-## 📸 Preview
-![Portfolio Preview](screenshot.png)  
+## 📸 Screenshots
 
-*(This is a preview of the portfolio website. You can view the live version using the link above.)*  
+<p align="center">
+  <img src="assets/screenshot1.png" width="45%" />
+  <img src="assets/screenshot2.png" width="45%" />
+</p>
 
----
+<p align="center">
+  <img src="assets/screenshot3.png" width="45%" />
+  <img src="assets/screenshot4.png" width="45%" />
+</p>
 
-## 📌 About Me
-Hi, I’m **Satini Lenampuny**.  
-I build digital solutions through software development, AI-powered automation, and modern design.  
-I also create and sell Canva templates, and work on freelance projects across different platforms.  
-
----
-
-## 🛠 Skills
-- **Programming Languages:** Python, HTML, CSS, JavaScript, C++  
-- **Frameworks:** Django  
-- **Design & Tools:** Canva, AI Automation (Zatixie Assistant, Chatbase)  
-- **Other:** Digital Marketing & Freelance Work  
+*(Replace with your real screenshots inside `assets/`)*  
 
 ---
 
-## 📂 Projects
-- **Zatixie AI Assistant** – Built and trained an AI to help with Canva template selling, Clickworker tasks, and freelancing.  
-- **Canva Templates Shop** – Created and managed ready-to-sell templates via Gumroad/Payhip.  
-- **Freelance Work** – Completed tasks on Clickworker, marketing campaigns, and content creation.  
+## 🚀 Live Demo
+👉 [View Live Portfolio]()  
 
 ---
 
 ## 🎓 Education
-- Diploma in Software Development – *Power Learn Project Africa*  
-- KCSE – *Kirisia Boys High School (2012–2015)*  
-- Primary – *Ntepes Primary School (2004–2011)*  
+- Diploma in Software Development — *PowerLearn Project Africa*  
 
 ---
 
-## 📞 Contact
-- 📧 Email: [satinizatickz@gmail.com](mailto:satinizatickz@gmail.com)  
-- 📱 WhatsApp: [+254 710 468 473](https://wa.me/254710468473)  
-- 🔗 LinkedIn: [Your LinkedIn Profile](https://github.com/satinizatickz/Portfolio)  
+## 💻 Skills
+- HTML / CSS / JavaScript  
+- Python & Django  
+- C++  
+- Database Design  
+- Software Development Best Practices  
+
+---
+
+## 📂 Projects
+- **Portfolio Website** – This site you are viewing now.  
+- **Clickworker Automation Tools** – Scripts to streamline online tasks.  
+- *(Add more projects as you build them)*  
+
+---
+
+## 📧 Contact
+- **Email:** satinizatickz@gmail.com  
+- **WhatsApp:** [Chat with me](https://wa.me/254710468473)  
+- **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/satini-lenampuny-4b414037a)  
+
+---
+
+## 🛠️ Built With
+- HTML  
+- CSS  
+- (Optional) JavaScript  
+
+---
+
+✌️ Feel free to fork, star ⭐, or reach out if you’d like to collaborate!
